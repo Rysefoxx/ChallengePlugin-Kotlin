@@ -1,0 +1,10 @@
+name: ChallengePlugin
+main: io.github.rysefoxx.ChallengePlugin
+version: '${project.version}'
+api-version: 1.13
+libraries:
+  - net.axay:kspigot:1.19.0
+commands:
+  backpack:
+    aliases:
+      - bp
